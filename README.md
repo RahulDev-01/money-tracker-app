@@ -1,4 +1,4 @@
-# Expense Tracker
+# Expense Tracker 💸
 
 A simple **Expense Tracker** web application that allows users to manage their expenses by selecting a category, entering an amount, and picking a date. Expenses are displayed in a table, and the total spent is automatically updated. You can also delete individual entries.
 
