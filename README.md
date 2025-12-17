@@ -21,7 +21,7 @@ Follow these steps to run the project on your local machine.
 
 ### Prerequisites
 
-- A modern web browser (e.g., Chrome, Firefox, Edge)
+- A modern web browser (e.g., Chrome, Firefox, Edge,opera)
 
 ### Installation
 
@@ -76,5 +76,6 @@ Total: ₹200
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
 
 
